@@ -1,0 +1,51 @@
+header > .btn-group {
+    display: flex;
+    flex-wrap: wrap;
+}
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+main > img {
+    width: 100%;
+}
+
+main > .card-body {
+    display: flex;
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+}
+
+div > .img-thumbnail {
+    height: 150px;
+    position: relative;
+    left: 20px;
+}
+
+div > .float-end {
+    height: 150px;
+    position: relative;
+    right: 190px;
+}
+
+div > .icono {
+    height: 80px;
+}
+
+.btn-group {
+    display: flex;
+    position: relative;
+    right: 20px;
+    flex-wrap: wrap;
+}
+
+footer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
